@@ -1,0 +1,37 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.idea/
+.vscode/
+*.iml
+local.properties
+.env
+secret*.json
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+build/
+GeneratedPluginRegistrant.swift
+GeneratedPluginRegistrant.h
+GeneratedPluginRegistrant.m
+generated_plugin_registrant.cc
+generated_plugins.cmake
+
+# Exceptions to above rules
+!.gitignore
+!pubspec.lock
