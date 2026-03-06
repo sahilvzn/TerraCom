@@ -11,7 +11,7 @@ Welcome! Thank you for considering contributing to TerraComm. We are building te
 2. Clone your fork locally:
    ```bash
    git clone https://github.com/YOUR-USERNAME/TerraCom.git
-   cd TerraCom/powersync-supabase-flutter-simple-chat-demo-template
+   cd TerraCom
    ```
 
 ### 2. Set Up Locally

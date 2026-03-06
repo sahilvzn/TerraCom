@@ -1,4 +1,4 @@
-package com.example.supabase_tutorial_chat_app
+package com.example.terracomm
 
 import io.flutter.embedding.android.FlutterActivity
 
